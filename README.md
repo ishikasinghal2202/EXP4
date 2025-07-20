@@ -1,3 +1,6 @@
+#Name : Ishika Singhal
+#PRN : 24070123048
+
 # EXP4
 AIM:
 To study and implement C++ Bitwise Operators.
