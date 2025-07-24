@@ -56,7 +56,8 @@ SAMPLE OUTPUT:
               Your number is:24
 
 CONCLUSION:
-Bitwise operators are powerful tools that allow programmers to work directly with the binary form of numbers. While they might seem technical at first glance, mastering them unlocks deeper control over data, especially in performance-critical applications. By studying and implementing bitwise operations, you gain a valuable skill set for tackling more advanced C++ concepts like masking, flag handling, and embedded system coding.
+
+       Bitwise operators are powerful tools that allow programmers to work directly with the binary form of numbers. While they might seem technical at first glance, mastering them unlocks deeper control over data, especially in performance-critical applications. By studying and implementing bitwise operations, you gain a valuable skill set for tackling more advanced C++ concepts like masking, flag handling, and embedded system coding.
 
 
 
