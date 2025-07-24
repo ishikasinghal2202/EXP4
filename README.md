@@ -26,6 +26,7 @@ THEORY:
       They provide efficient ways to manipulate data at the bit level, which is especially useful in tasks like flag operations, low-level system programming, and memory optimization.
 
 The common bitwise operators include:
+
             - AND (&): Compares each bit of two numbers and returns a new number with bits set to 1 only where both operands have 1.
             - OR (|): Returns a result with bits set to 1 if at least one of the corresponding bits in either operand is 1.
             - XOR (^): Produces a result where bits are set to 1 only when the corresponding bits in the operands are different.
